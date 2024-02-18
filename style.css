@@ -343,20 +343,6 @@ footer .column > a:hover {
   text-align: center;
 }
 
-.form {
-  display: grid;
-  gap: 20px;
-  width: 300px;
-  text-align: center;
-  justify-content: center;
-  margin: 0 auto;
-}
-.form input {
-  padding: 20px;
-  width: inherit;
-  border-radius: 4px;
-}
-
 @media (width < 900px) {
   .nav-links {
     display: none;
